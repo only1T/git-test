@@ -11,7 +11,7 @@ public class GitTest {
         System.out.println("hello git,I'm thd3");
         System.out.println("hello git,I'm thd4");
         System.out.println("master test");
-
+        System.out.println("github:我改了一次了");
 
     }
 }
