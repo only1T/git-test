@@ -8,6 +8,8 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git,I'm thd");
         System.out.println("hello git,I'm thd2");
+        System.out.println("hello git,I'm thd3");
+        System.out.println("hello git,I'm thd4");
 
     }
 }
