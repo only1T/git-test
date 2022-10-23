@@ -7,5 +7,7 @@ package com.example.gittest;
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git,I'm thd");
+        System.out.println("hello git,I'm thd2");
+
     }
 }
